@@ -1,0 +1,27 @@
+{
+  "name": "wordguess",
+  "version": "1.0.0",
+  "description": "word game ",
+  "main": "word.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanfalcon/WordGuess.git"
+  },
+  "keywords": [
+    "inquire",
+    "word",
+    "game"
+  ],
+  "author": "stephan Falcon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephanfalcon/WordGuess/issues"
+  },
+  "homepage": "https://github.com/stephanfalcon/WordGuess#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
